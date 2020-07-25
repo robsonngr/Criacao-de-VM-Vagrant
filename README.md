@@ -1,2 +1,2 @@
 # Criacao de VM Vagrant
- Exemplo de criação de maquina com Vagrant.
+Vagrantfile para criação de uma maquina virtual, neste caso já instalando docker, ansible , pip e npm.
